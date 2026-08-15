@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello there, check out my [website](https://sergei4k.github.io/)
 
 <!--
 **sergei4k/sergei4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
